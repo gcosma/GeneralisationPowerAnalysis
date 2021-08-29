@@ -2,8 +2,8 @@
 Generalisation Power Analysis for finding a stable set of features using evolutionary computation feature selection algorithms
 
 
-Bibtex reference
-
+Bibtex reference<br />
+<br />
 @article{SalesiCosma2021,<br />
 title = {Generalisation Power Analysis for finding a stable set of features using evolutionary computation feature selection algorithms},<br />
 journal = {Knowledge-Based Systems},<br />
