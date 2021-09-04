@@ -1,9 +1,7 @@
 To run the algorithm open main.m file and run.
-
 The algorithm by default is set to select features for the GLI_85 dataset. 
 You can load your dataset with the format mentioned in the code.
-
-The parametes for GA algorithm can be tuned in GA_Wrapper.m file.
+The parameters for GA algorithm can be tuned in GA_Wrapper.m file.
 
 Files:
 
