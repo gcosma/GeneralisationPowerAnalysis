@@ -1,3 +1,14 @@
+# Generalisation Power Analysis for finding a stable set of features using evolutionary feature selection algorithms
+
+To run the algorithm 
+1. Open main.m file and run.
+2. If needed the parameters for GA algorithm can be tuned in GA_Wrapper.m file.
+3. The algorithm by default is set to select features for the GLI_85 dataset. 
+4. You can load another dataset following the format of the GLI_85 dataset.
+
+
+
+
 # GeneralisationPowerAnalysis
 Generalisation Power Analysis for finding a stable set of features using evolutionary feature selection algorithms
 
